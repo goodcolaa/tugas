@@ -1,13 +1,6 @@
-# Tugas PAS: Online Pharmacy
-Proyek Akhir Semester PBP 2022-2023 Kelompok B01.
+Online Pharmacy
 
-## Daftar Anggota dan Pembagian Tugas
-Kelompok B01:
-- Elang Permana: Order
-- Nadhira Shahnaz Zain: Pharmacy
-- Naufal Weise Widyatama: Medicine
-- Rafa Maritza: Market
-- Taqiya Zayin Hanafie: Customer
+
 
 ## Deskripsi Aplikasi
 Aplikasi ini bernama online pharmacy. Aplikasi ini merupakan aplikasi versi mobile dari aplikasi yang dibuat untuk proyek tengah semester.
@@ -15,7 +8,7 @@ Aplikasi online pharmacy adalah aplikasi yang menyediakan layanan pembelian obat
 
 ## Daftar Modul dan Fitur
 Daftar modul yang akan diimplementasi:
-- Customer<br>
+- Customer<br> <-- buat yang ini yaa
 Melihat dan Mengubah profil kustomer. Model yang dibuat: Customer.
 - Pharmacy<br>
 Melihat dan menambahkan data apotek. (untuk admin aplikasi). Model yang dibuat: Pharmacy.
